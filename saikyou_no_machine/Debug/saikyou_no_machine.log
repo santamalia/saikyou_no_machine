@@ -1,0 +1,23 @@
+﻿2016/07/28 10:20:12 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "H:\windows\My Documents\Visual Studio 2013\Projects\saikyou_no_machine\saikyou_no_machine\saikyou_no_machine.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>h:\windows\my documents\visual studio 2013\projects\saikyou_no_machine\saikyou_no_machine\source.cpp(55): warning C4305: '初期化中' : 'double' から 'const GLfloat' へ切り詰めます。
+     1>h:\windows\my documents\visual studio 2013\projects\saikyou_no_machine\saikyou_no_machine\source.cpp(131): warning C4244: '引数' : 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>h:\windows\my documents\visual studio 2013\projects\saikyou_no_machine\saikyou_no_machine\source.cpp(157): warning C4305: '初期化中' : 'double' から 'GLfloat' へ切り詰めます。
+     1>h:\windows\my documents\visual studio 2013\projects\saikyou_no_machine\saikyou_no_machine\source.cpp(248): warning C4305: '初期化中' : 'double' から 'const GLfloat' へ切り詰めます。
+     1>h:\windows\my documents\visual studio 2013\projects\saikyou_no_machine\saikyou_no_machine\source.cpp(271): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>h:\windows\my documents\visual studio 2013\projects\saikyou_no_machine\saikyou_no_machine\source.cpp(298): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>h:\windows\my documents\visual studio 2013\projects\saikyou_no_machine\saikyou_no_machine\source.cpp(337): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>h:\windows\my documents\visual studio 2013\projects\saikyou_no_machine\saikyou_no_machine\source.cpp(338): warning C4244: '引数' : 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+     1>h:\windows\my documents\visual studio 2013\projects\saikyou_no_machine\saikyou_no_machine\source.cpp(800): warning C4305: '初期化中' : 'double' から 'GLfloat' へ切り詰めます。
+     1>h:\windows\my documents\visual studio 2013\projects\saikyou_no_machine\saikyou_no_machine\source.cpp(924): warning C4305: '引数' : 'double' から 'GLclampf' へ切り詰めます。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\windows\My Documents\Visual Studio 2013\Projects\saikyou_no_machine\Debug\saikyou_no_machine.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\windows\My Documents\Visual Studio 2013\Projects\saikyou_no_machine\Debug\saikyou_no_machine.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\windows\My Documents\Visual Studio 2013\Projects\saikyou_no_machine\Debug\saikyou_no_machine.lib" /MACHINE:X86 Debug\Source.obj
+         saikyou_no_machine.vcxproj -> H:\windows\My Documents\Visual Studio 2013\Projects\saikyou_no_machine\Debug\saikyou_no_machine.exe
+     1>プロジェクト "H:\windows\My Documents\Visual Studio 2013\Projects\saikyou_no_machine\saikyou_no_machine\saikyou_no_machine.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.45
